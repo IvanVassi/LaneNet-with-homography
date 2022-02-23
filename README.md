@@ -11,5 +11,3 @@ detection: an instance segmentation approach. In 2018 IEEE intelligent vehicles 
 https://arxiv.org/abs/1802.05591
 
 [2] TuSimple Dataset https://github.com/TuSimple/tusimple-benchmark
-
-[3] E-Net Project https://github.com/davidtvs/PyTorch-ENet
